@@ -11,6 +11,8 @@ hosted for free on GitHub Pages — no build step, no framework.
 - `script.js` — one small script, just for the "Support Kayley's Trip"
   bar that follows you down the page on phones
 - `assets/sia-cambodia-2024.jpg` — the family photo used in the hero
+- `assets/smAGS_logo.png`, `assets/ccf-logo--color.png` — the two logos
+  in the hero
 
 ## Before you publish: one fix you must make
 
@@ -65,11 +67,10 @@ and sometimes need a moment to refresh.
 - **Colours**: all defined once at the top of `style.css` under
   `:root { ... }` — change a value there and it updates everywhere that
   colour is used.
-- **The CCF logo**: we deliberately left this out rather than copy CCF's
-  logo file without checking their permissions first (see the note in
-  the chat). If you'd like it added, grab the logo from
-  cambodianchildrensfund.org (or ask Christy Dangerfield if the school
-  has an approved version for supporter pages), save it as
-  `assets/ccf-logo.png`, and it can be dropped into the hero or footer.
-- **A CCF video**: same approach — pick one from CCF's YouTube channel
+- **The logos**: St Mary's and CCF now sit together at the top of the
+  hero. St Mary's mark is white, so it only works on a dark background —
+  if you ever move it, keep it on the navy, not the cream sections.
+  CCF's mark sits in its own small white tile for the same reason (its
+  navy/blue ink needs a light background to read).
+- **A CCF video**: not included yet. Pick one from CCF's YouTube channel
   (youtube.com/@cambodianchildrensfundorg) and we can embed it properly.
