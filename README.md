@@ -60,6 +60,14 @@ sending it to anyone else — you'll see exactly what recipients will see
 step 8 above and give it a minute; WhatsApp and Instagram cache previews
 and sometimes need a moment to refresh.
 
+## Checking your visitor numbers
+
+Google Analytics is wired up (ID `G-LQSYRPC389`). Once the site's been live
+for a day or so, visits will start showing up at analytics.google.com —
+sign in with whichever Google account that property belongs to. It only
+counts anonymous visit patterns (how many people, roughly where from,
+which pages) — not who your family members are individually.
+
 ## If you want to change anything
 
 - **Wording**: everything is plain text inside `index.html` — search for
