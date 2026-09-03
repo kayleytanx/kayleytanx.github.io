@@ -62,9 +62,11 @@ and sometimes need a moment to refresh.
 
 ## Checking your visitor numbers
 
-Google Analytics is wired up (ID `G-LQSYRPC389`). Once the site's been live
-for a day or so, visits will start showing up at analytics.google.com —
-sign in with whichever Google account that property belongs to. It only
+Google Analytics is wired up to two separate properties (`G-LQSYRPC389`
+and `G-220F1337Y9`), so both accounts get their own independent view of
+the same visits — nobody needs to be added to the other's account. Once
+the site's been live for a day or so, visits will start showing up at
+analytics.google.com under each account, signed in separately. It only
 counts anonymous visit patterns (how many people, roughly where from,
 which pages) — not who your family members are individually.
 
