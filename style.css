@@ -125,7 +125,7 @@ p { margin: 0 0 1.1em; }
   background: var(--navy);
   background-image: linear-gradient(160deg, var(--navy) 0%, var(--navy-2) 100%);
   color: #F2EFE6;
-  padding: 40px 0 0;
+  padding: 40px 0 48px;
 }
 .logo-bar {
   display: flex;
@@ -169,20 +169,23 @@ p { margin: 0 0 1.1em; }
 .hero .lede { color: #C7D0DA; }
 
 .hero-photo {
-  margin: 48px 0 0;
+  max-width: 360px;
+  margin: 40px auto 0;
+  padding: 0 24px;
 }
 .hero-photo img {
   width: 100%;
-  height: min(72vw, 480px);
+  aspect-ratio: 7 / 10;
   object-fit: cover;
-  object-position: 50% 30%;
+  object-position: center 25%;
+  border-radius: 10px;
+  display: block;
 }
 .hero-photo figcaption {
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 10px 24px 40px;
+  padding: 10px 2px 0;
   font-size: 0.85rem;
   color: #9FB0BF;
+  text-align: center;
 }
 
 /* ============================================================
