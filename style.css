@@ -175,7 +175,7 @@ p { margin: 0 0 1.1em; }
   width: 100%;
   height: min(72vw, 480px);
   object-fit: cover;
-  object-position: 25% 38%;
+  object-position: 50% 30%;
 }
 .hero-photo figcaption {
   max-width: 900px;
@@ -261,6 +261,22 @@ p { margin: 0 0 1.1em; }
   font-style: normal;
   font-size: 0.9rem;
   color: var(--ink-soft);
+}
+
+.section-photo {
+  margin: 28px 0;
+}
+.section-photo img {
+  width: 100%;
+  max-height: 360px;
+  object-fit: cover;
+  object-position: center 30%;
+  border-radius: 6px;
+}
+.section-photo figcaption {
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+  margin-top: 8px;
 }
 
 /* ============================================================
