@@ -175,7 +175,7 @@ p { margin: 0 0 1.1em; }
   width: 100%;
   height: min(72vw, 480px);
   object-fit: cover;
-  object-position: 50% 38%;
+  object-position: 25% 38%;
 }
 .hero-photo figcaption {
   max-width: 900px;

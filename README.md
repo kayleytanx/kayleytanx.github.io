@@ -10,7 +10,7 @@ hosted for free on GitHub Pages — no build step, no framework.
 - `style.css` — all the styling
 - `script.js` — one small script, just for the "Support Kayley's Trip"
   bar that follows you down the page on phones
-- `assets/sia-cambodia-2024.jpg` — the family photo used in the hero
+- `assets/kayley-portrait.jpg` — the photo used in the hero
 - `assets/smAGS_logo.png`, `assets/ccf-logo--color.png` — the two logos
   in the hero
 
