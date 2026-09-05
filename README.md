@@ -13,8 +13,8 @@ hosted for free on GitHub Pages — no build step, no framework.
 - `assets/kayley-mjac-2026.jpg` — the photo used in the hero
 - `assets/sia-cambodia-2024.jpg` — Noelle's photo, now used inside the
   "Why Kayley" section
-- `assets/smAGS_logo.png`, `assets/ccf-logo--color.png` — the two logos
-  in the hero
+- `assets/smAGS_logo.png`, `assets/ccgs-logo.png`, `assets/ccf-logo--color.png`
+  — the three logos in the hero
 
 ## Before you publish: one fix you must make
 
