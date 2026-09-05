@@ -175,9 +175,9 @@ p { margin: 0 0 1.1em; }
 }
 .hero-photo img {
   width: 100%;
-  aspect-ratio: 7 / 10;
+  aspect-ratio: 4 / 5;
   object-fit: cover;
-  object-position: center 25%;
+  object-position: center 22%;
   border-radius: 10px;
   display: block;
 }
